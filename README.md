@@ -1,70 +1,67 @@
-# Getting Started with Create React App
+# Frontend Mentor - E-commerce product page solution
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a solution to the [E-commerce product page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/ecommerce-product-page-UPsZ9MJp6). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-## Available Scripts
+### Screenshot
 
-In the project directory, you can run:
+![](./src/design/desktop-preview.jpg)
 
-### `npm start`
+### Links
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Table of contents
 
-### `npm test`
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [Continued development](#continued-development) -[Pages to Be Developed](#Pages-to-Be-Developed)
+- [Author](#author)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Overview
 
-### `npm run build`
+### The challenge
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Users should be able to:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- View the optimal layout for the site depending on their device's screen size
+- See hover states for all interactive elements on the page
+- Open a lightbox gallery by clicking on the large product image
+- Switch the large product image by clicking on the small thumbnail images
+- Add items to the cart
+- View the cart and remove items from it
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## My process
 
-### `npm run eject`
+### Built with
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- CSS Grid
+- Mobile-first workflow
+- [React](https://reactjs.org/) - JS library
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Continued development
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+While the current version of the project includes several key features, there are still areas that I plan to focus on for further improvement and expansion in the future. Here are some of the pages and features that I intend to work on:
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### Pages to Be Developed
 
-## Learn More
+- **Collection Page**: I'll be dedicating time to create a dynamic collection page that showcases an array of products across categories. This will allow visitors to explore and discover products more effectively.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- **Women's Section**: A dedicated area featuring products tailored for women. I'll be refining the user experience to ensure that it resonates with the intended audience.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- **Men's Section**: Similarly, I'll be crafting a men's section that highlights products designed for men. This section will have its own unique look and feel.
 
-### Code Splitting
+- **About Us**: The "About Us" page will receive attention to provide a comprehensive overview of the brand, its story, and its values.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+- **Contact Page**: I'm planning to redesign the contact page, making it more user-friendly and accessible. Visitors will have an easier time reaching out and engaging with the brand.
 
-### Analyzing the Bundle Size
+These are the specific pages that I'll be dedicating my efforts to enhance in the frontend development of the portfolio e-commerce website.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## Author
 
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- Frontend Mentor - [@yosrajalali](https://www.frontendmentor.io/profile/yosrajalali)
