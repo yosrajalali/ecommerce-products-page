@@ -32,7 +32,7 @@ function Navbar() {
             <img className="menu" src={icon} alt="menu icon" />
           )}
         </button>
-        <Link to="/">
+        <Link to="/ecommerce-products-page/">
           <img src={logo} alt="Company Logo" className="logo" />
         </Link>
       </div>
