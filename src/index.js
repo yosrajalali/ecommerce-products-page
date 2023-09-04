@@ -7,7 +7,7 @@ const el = document.getElementById('root');
 const root = ReactDOM.createRoot(el);
 
 root.render(
-  <Router>
+  <BrowserRouter basename="/ecommerce-products-page">
     <App />
-  </Router>
+  </BrowserRouter>
 );
