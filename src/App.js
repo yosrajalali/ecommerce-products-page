@@ -15,7 +15,7 @@ function App() {
       <div className="container">
         <Nav />
         <Routes>
-          <Route path="/" element={<Home />} />
+          <Route path="/ecommerce-products-page/" element={<Home />} />
         </Routes>
       </div>
     </CartContextProvider>
