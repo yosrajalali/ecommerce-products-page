@@ -1,5 +1,5 @@
 import './app.css';
-import { Route, Routes } from 'react-router-dom';
+import { BrowserRouter, Route, Routes } from 'react-router-dom';
 import Nav from './pages/Nav';
 import Home from './pages/Home';
 // import About from './pages/About';
@@ -14,10 +14,12 @@ function App() {
     <CartContextProvider>
       <div className="container">
         <Nav />
-        <Routes>
-          <Route path="/" element={<Home />} />
-        </Routes>
-      </div>
+        <BrowserRouter basename="ecommerce-products-page">
+          <Routes>
+            <Route path="/" element={<Home />} />{' '}
+          </Routes>{' '}
+        </BrowserRouter>
+      </div>{' '}
     </CartContextProvider>
   );
 }
